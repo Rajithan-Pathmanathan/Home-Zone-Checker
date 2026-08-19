@@ -39,3 +39,43 @@ Thumbs.db
 # Mobile tools
 *.apks
 *.aab
+
+# ── VS Code ──────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── JetBrains IDEs ───────────────────────────────────
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.fleet/
+
+# ── Antigravity / AI Agent artefacts ─────────────────
+.agent/
+.gemini/
+*.gemini
+antigravity-updater/
+build_output*.txt
+
+# ── OS generated files ────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V500
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ── Temporary & editor swap files ────────────────────
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# ── Node / npm (if any tooling added) ────────────────
+node_modules/
+npm-debug.log*
