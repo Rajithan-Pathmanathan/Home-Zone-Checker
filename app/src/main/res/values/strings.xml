@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Home-Zone-Checker</string>
+
+    <!-- UI strings -->
+    <string name="app_title">Campus / Home Zone Checker</string>
+    <string name="app_subtitle">Check whether you are inside the selected zone.</string>
+    <string name="btn_check_label">Check My Location</string>
+
+    <!-- Labels -->
+    <string name="label_status">Status</string>
+    <string name="label_distance">Distance</string>
+    <string name="label_zone_info">Active Zone</string>
+    <string name="label_ref_lat">Reference Latitude</string>
+    <string name="label_ref_lng">Reference Longitude</string>
+    <string name="label_radius">Zone Radius</string>
+
+    <!-- States -->
+    <string name="status_idle">Tap the button to check</string>
+    <string name="status_inside">Inside Zone</string>
+    <string name="status_outside">Outside Zone</string>
+    <string name="distance_idle">—</string>
+
+    <!-- Messages -->
+    <string name="msg_permission_denied">Location permission denied. Please grant it in Settings.</string>
+    <string name="msg_location_unavailable">Location not found. Enable GPS and try again.</string>
 </resources>

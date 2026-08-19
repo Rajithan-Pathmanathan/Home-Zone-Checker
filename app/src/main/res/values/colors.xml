@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Preserved originals -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- App background & surface -->
+    <color name="bg_primary">#F4F6F9</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="divider">#E0E4EA</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1D23</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- Accent colours -->
+    <color name="accent_blue">#2563EB</color>
+    <color name="accent_green">#16A34A</color>
+    <color name="accent_red">#DC2626</color>
+    <color name="accent_orange">#EA580C</color>
 </resources>
